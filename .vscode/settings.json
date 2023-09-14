@@ -1,0 +1,7 @@
+{
+    "editor.tabSize": 2,
+    "editor.indentSize": "tabSize",
+    "editor.detectIndentation": false,
+    "editor.wrappingIndent": "indent",
+    "editor.insertSpaces": true
+}
